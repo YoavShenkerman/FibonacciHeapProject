@@ -432,6 +432,5 @@ public class FibonacciHeap
             this.info = info;
             this.rank = 0;
         }
-
     }
 }
